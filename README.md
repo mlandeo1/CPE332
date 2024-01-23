@@ -1,13 +1,38 @@
-# Heading
-**This is bold text
-_This is italic_
-> Block Quote
-*Unordered list 1
-*Unordered list 2
-*Unordered list 3
-1. Ordered list 1
-2. Ordered list 2
-3. Ordered list 3
+# Heading Level 1
+## Heading Level 2
+### Heading Level 3
+#### Heading Level 4
+##### Heading Level 5
+###### Heading Level 6
 
+**This is bold text**
 
-This is the link to [Markdown Directions](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+*This is italic text*
+
+**_This is bold and italic_**
+
+> This is a block quote.
+> 
+> This is part of the same block quote.
+
+Ordered List:
+1. First item
+2. Second item
+3. Third item
+
+Unordered List:
+- First item
+- Second item
+- Third item
+
+`This is inline code`
+
+```python
+# This is a code block
+print('Hello, World!')
+
+---
+
+[Google](https://www.google.com)
+
+![This is an image](https://example.com/image.jpg "Image Title")
