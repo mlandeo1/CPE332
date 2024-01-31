@@ -22,7 +22,7 @@ Advanced Features:
 - Automation
 - Advertisements (Google and Facebook)
 
-`print('Hello world)`
+`print('Hello world')`
 
 ```python
 # This is a code block
