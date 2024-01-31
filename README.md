@@ -1,31 +1,28 @@
-# Heading Level 1
-## Heading Level 2
-### Heading Level 3
-#### Heading Level 4
-##### Heading Level 5
-###### Heading Level 6
+# Marco Landeo
+## CPE322
 
-**This is bold text**
 
-*This is italic text*
+**I love Computer Engineering**
 
-**_This is bold and italic_**
+*I love Python*
 
-> This is a block quote.
+**_I love CPE + Python_**
+
+> Below is a link to my website.
 > 
-> This is part of the same block quote.
+> It is for the software company my cousin and I developed called "Innovizzo".
 
-Ordered List:
-1. First item
-2. Second item
-3. Third item
+What my software does:
+1. Custom Dashboard for Lead Management and Statistics
+2. Website Creation
+3. Booking Calendar
 
-Unordered List:
-- First item
-- Second item
-- Third item
+Advanced Features:
+- Third-Party Integration
+- Automation
+- Advertisements (Google and Facebook)
 
-`This is inline code`
+`print('Hello world)`
 
 ```python
 # This is a code block
@@ -33,6 +30,6 @@ print('Hello, World!')
 ```
 ---
 
-[Google](https://www.google.com)
+[Innovizzo]([https://www.google.com](https://innovizzo.com/))
 
-![This is an image](https://example.com/image.jpg "Image Title")
+![Innovizzo Logo]([https://example.com/image.jpg](https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/UdyI5h3HPpG3r02SCriY/media/6583af48a0a47e0046365cad.png](https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/UdyI5h3HPpG3r02SCriY/media/6583af48a0a47e0046365cad.png)https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/UdyI5h3HPpG3r02SCriY/media/6583af48a0a47e0046365cad.png) "Innovizzo Logo")
