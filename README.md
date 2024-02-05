@@ -32,4 +32,5 @@ print('Hello, World!')
 
 '[Innovizzo](https://innovizzo.com/)'
 
-![Innovizzo Logo]([[https://example.com/image.jpg](https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/UdyI5h3HPpG3r02SCriY/media/6583af48a0a47e0046365cad.png](https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/UdyI5h3HPpG3r02SCriY/media/6583af48a0a47e0046365cad.png)https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/UdyI5h3HPpG3r02SCriY/media/6583af48a0a47e0046365cad.png))](https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/UdyI5h3HPpG3r02SCriY/media/6583af48a0a47e0046365cad.png](https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/UdyI5h3HPpG3r02SCriY/media/6583af48a0a47e0046365cad.png)https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/UdyI5h3HPpG3r02SCriY/media/6583af48a0a47e0046365cad.png) "Innovizzo Logo")
+![Innovizzo logo (1)](https://github.com/mlandeo1/CPE332/assets/123087304/8bb2ae20-2024-44fa-96ea-7e7cb8759df0)
+
