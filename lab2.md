@@ -9,3 +9,7 @@ Prints the environment variables.
 3. PS
 Process Status
 <img width="464" alt="image" src="https://github.com/mlandeo1/CPE332/assets/123087304/bc643760-55f0-4acf-b898-7b534769cb68">
+
+4. pwd
+Prints name of current directory
+<img width="335" alt="image" src="https://github.com/mlandeo1/CPE332/assets/123087304/82b5c19d-16f7-44b0-a84a-2618859e2fdd">
