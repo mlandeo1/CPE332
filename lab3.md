@@ -14,3 +14,4 @@ Had to install PIP and pytz
 
 Had to install psutil
 
+![image](https://github.com/mlandeo1/CPE332/assets/123087304/eaa40d0a-fbe1-4fa7-9b9a-c189b57fab68)
