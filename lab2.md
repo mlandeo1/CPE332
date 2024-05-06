@@ -64,6 +64,7 @@ Clears the Terminal
 
 18. man uname
 Opens a manual within the terminal to use the command "name."
+
 ![image](https://github.com/mlandeo1/CPE332/assets/123087304/395ec21b-9362-40ab-a486-541bbc013142)
 
 19. uname -a
