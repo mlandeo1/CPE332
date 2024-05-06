@@ -66,3 +66,21 @@ Clears the Terminal
 Opens a manual within the terminal to use the command "name."
 ![image](https://github.com/mlandeo1/CPE332/assets/123087304/395ec21b-9362-40ab-a486-541bbc013142)
 
+19. uname -a
+Prints all system info.
+![image](https://github.com/mlandeo1/CPE332/assets/123087304/4c0e738a-87d8-478c-b638-984f04bbb013
+
+20. ipconfig
+Prints info about IP configuration. ifconfig not compatible with Windows. Used ipconfig in cmd prompt for same results.
+![image](https://github.com/mlandeo1/CPE332/assets/123087304/9e92624a-f210-4d60-8f1a-76fc53e4fa2d)
+
+21. ping localhost
+Sends ICMP echo request messages to another local computer.
+![image](https://github.com/mlandeo1/CPE332/assets/123087304/b6d0d4c7-ae77-44f4-aea6-dcc932bc57f6)
+
+22.netstat
+Displays protocol statistics and current network connections.
+![image](https://github.com/mlandeo1/CPE332/assets/123087304/d2e5620e-2c64-40f8-b349-79eb33eae11a)
+
+
+
