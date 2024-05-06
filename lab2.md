@@ -20,6 +20,7 @@ Prints name of current directory
 
 6. git clone https:/github.com/kevinwlu/iot.git
 
+
 Clones repository from github into a new directory.
 
 ![image](https://github.com/mlandeo1/CPE332/assets/123087304/e90c7d2f-f4c2-467e-93b7-e5afe4005024)
