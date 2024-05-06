@@ -69,7 +69,7 @@ Opens a manual within the terminal to use the command "name."
 
 19. uname -a
 Prints all system info.
-![image](https://github.com/mlandeo1/CPE332/assets/123087304/4c0e738a-87d8-478c-b638-984f04bbb013
+![image](https://github.com/mlandeo1/CPE332/assets/123087304/dedf7980-d9e0-489b-81c1-196d7a22201f)
 
 20. ipconfig
 Prints info about IP configuration. ifconfig not compatible with Windows. Used ipconfig in cmd prompt for same results.
