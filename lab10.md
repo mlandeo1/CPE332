@@ -6,3 +6,6 @@
 
 ![image](https://github.com/mlandeo1/CPE332/assets/123087304/8b8b5d43-dad1-43d0-9ea5-4f1132455ba1)
 
+![image](https://github.com/mlandeo1/CPE332/assets/123087304/0206c4d3-0706-4558-bfbb-2e9bd7a5057c)
+
+![image](https://github.com/mlandeo1/CPE332/assets/123087304/e3c5163f-c298-41ac-85cf-623e74e404ae)
